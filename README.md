@@ -18,8 +18,8 @@
 - 🛠️ I’m currently learning **<!-- e.g. Docker, AWS, GraphQL -->**
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, PostgreSQL)**
 - 🌱 Open to **remote jobs and internships**
-- 🌐 Explore My Portfolio **[Portfolio](<!-- your portfolio URL -->)**
-- 📫 Feel free to reach me at **[Email](mailto:<!-- your email -->)**
+- 🌐 Explore My Portfolio **[Portfolio](https://abdullah-mamun-portfolio.vercel.app)**
+- 📫 Feel free to reach me at **[Email](mailto: hello.abdullahmamun1@gmail.com)**
 
 <br/>
 
