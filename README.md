@@ -14,7 +14,7 @@
 - 👋 Hi, I’m **[@abdullahmamun1](https://github.com/abdullahmamun1)**
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
+- 🛠️ I’m currently learning **Docker and AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[Abdullah Mamun](https://abdullah-mamun-portfolio.vercel.app/)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/abdullahmaamun)**
