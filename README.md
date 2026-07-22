@@ -41,7 +41,7 @@
 
 ### Languages:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,c++,py)](https://github.com/abdullahmamun1)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,py)](https://github.com/abdullahmamun1)
 
 ### CSS Frameworks & Libraries:
 
@@ -61,7 +61,7 @@
 
 ### Design & Graphics:
 
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps,canva)](https://github.com/abdullahmamun1)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps)](https://github.com/abdullahmamun1)
 
 ### Tools & Technologies:
 
