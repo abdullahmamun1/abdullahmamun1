@@ -30,8 +30,6 @@
   <p align="left">
     <a href="https://linkedin.com/in/abdullahmaamun" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="abdullahmaamun" height="30" width="40" /></a>
     <a href="https://discord.gg/kazuTo#6069" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="kazuTo#6069" height="30" width="40" /></a>
-    <a href="https://dev.to/abdullahmamun1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abdullahmamun1" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -43,7 +41,7 @@
 
 ### Languages:
 
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/abdullahmamun1)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,c,c++,py)](https://github.com/abdullahmamun1)
 
 ### CSS Frameworks & Libraries:
 
@@ -55,7 +53,7 @@
 
 ### Database & Model:
 
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/abdullahmamun1)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma)](https://github.com/abdullahmamun1)
 
 ### Deployment Platform:
 
@@ -63,7 +61,7 @@
 
 ### Design & Graphics:
 
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/abdullahmamun1)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps,canva)](https://github.com/abdullahmamun1)
 
 ### Tools & Technologies:
 
