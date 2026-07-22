@@ -74,8 +74,11 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-
-![Snake Grid](https://github.com/abdullahmamun1/contribution-snake/blob/output/grid.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahmamun1/abdullahmamun1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahmamun1/abdullahmamun1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdullahmamun1/abdullahmamun1/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### GitHub Statistics:
 
