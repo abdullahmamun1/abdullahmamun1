@@ -82,12 +82,12 @@
 
 ### GitHub Statistics:
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahmamun1&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmamun1&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+[![Abdullah's GitHub stats](https://github-stats-extended.vercel.app/api?username=abdullahmamun1)](https://github.com/stats-organization/github-stats-extended)
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### Repository Stats & Streak:
 
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=abdullahmamun1&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=abdullahmamun1" /></a> |
+<a><img align="center" src="https://streak-stats.demolab.com/?user=abdullahmamun1" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 
 <br/>
