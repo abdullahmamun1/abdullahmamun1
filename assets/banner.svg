@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Abdullah Al Mamun, Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111a3a"/>
+      <stop offset="1" stop-color="#0f2b4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+  <circle cx="1060" cy="60" r="260" fill="url(#glowA)"/>
+  <circle cx="160" cy="320" r="240" fill="url(#glowB)"/>
+
+  <!-- left: name and title -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="72" y="104" fill="#94a3b8" font-size="22" letter-spacing="4">HELLO, I'M</text>
+    <text x="70" y="166" fill="#f8fafc" font-size="60" font-weight="700">Abdullah Al Mamun</text>
+    <rect x="72" y="188" width="96" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="72" y="236" fill="url(#accent)" font-size="30" font-weight="600">Full Stack Developer</text>
+    <text x="72" y="274" fill="#cbd5e1" font-size="19">Next.js · React · TypeScript · Node.js · Express · PostgreSQL · Prisma</text>
+  </g>
+
+  <!-- right: code window -->
+  <g transform="translate(828 58)">
+    <rect width="384" height="204" rx="14" fill="#0b1224" fill-opacity="0.85" stroke="#334155"/>
+    <circle cx="24" cy="22" r="6" fill="#f87171"/>
+    <circle cx="44" cy="22" r="6" fill="#fbbf24"/>
+    <circle cx="64" cy="22" r="6" fill="#34d399"/>
+    <text x="300" y="27" fill="#64748b" font-size="13" font-family="Menlo, Consolas, monospace">me.ts</text>
+    <g font-family="Menlo, Consolas, 'Courier New', monospace" font-size="16">
+      <text x="24" y="66"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> me = {</tspan></text>
+      <text x="48" y="94"><tspan fill="#7dd3fc">role</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"full stack"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="48" y="122"><tspan fill="#7dd3fc">base</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"Sylhet, BD"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="48" y="150"><tspan fill="#7dd3fc">ships</tspan><tspan fill="#e2e8f0">: [</tspan><tspan fill="#86efac">"web"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"apis"</tspan><tspan fill="#e2e8f0">],</tspan></text>
+      <text x="24" y="178" fill="#e2e8f0">};</text>
+    </g>
+  </g>
+</svg>
